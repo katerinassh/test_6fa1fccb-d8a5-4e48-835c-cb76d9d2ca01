@@ -1,0 +1,1 @@
+export const PROBATION_CLIENT_TOKEN = Symbol('PROBATION_CLIENT');
